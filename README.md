@@ -12,4 +12,4 @@ NODE RED DASHBOARD LINK https://node-red-tmxnf.eu-gb.mybluemix.net/red/#flow/395
   UI PAGE LINK- https://node-red-tmxnf.eu-gb.mybluemix.net/ui/#!/0?socketid=JgkQfM1NXClAQ_yOAAAX
   
   
-  YouTube link https://youtu.be/8JrgbD1-h2g
+  YouTube Video link  https://youtu.be/8JrgbD1-h2g
